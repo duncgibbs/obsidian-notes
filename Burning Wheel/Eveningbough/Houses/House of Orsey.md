@@ -4,5 +4,5 @@ A house in [[Eveningbough]].
 
 ## Members
 
-- Jack d'Orsey
+- [[Jack d'Orsey]]
 - 
