@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "a1af415afbb737ed",
+        "id": "e42fa5223c473400",
         "type": "split",
         "children": [
           {
-            "id": "d0ee79f9f0205a96",
+            "id": "55b3ae5bb01a00a6",
             "type": "leaf",
+            "dimension": 50,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eveningbough/People/Bishop Jolie.md",
+                "file": "Session Notes/Session 9 - 17.10.20.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "55b3ae5bb01a00a6",
+            "id": "c39f2d7a89255971",
             "type": "leaf",
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8 - 03.10.20.md",
+                "file": "Eveningbough/Houses/House of Kookalicot.md",
                 "mode": "source"
               }
             }
@@ -82,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eveningbough/People/Bishop Jolie.md"
+                "file": "Session Notes/Session 9 - 17.10.20.md"
               }
             }
           }
@@ -94,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Eveningbough/People/Bishop Jolie.md",
+    "Session Notes/Session 9 - 17.10.20.md",
+    "Eveningbough/Places/The Royal Palace.md",
+    "Eveningbough/Houses/House of Kookalicot.md",
     "Session Notes/Session 8 - 03.10.20.md",
-    "Eveningbough/People/Untitled.md",
+    "Eveningbough/Houses/Untitled.md",
+    "Eveningbough/People/Gille.md",
     "Eveningbough/Places/Untitled.md",
-    "Eveningbough/People/Queen Margaret.md",
     "Eveningbough/People/Prince Ezekiel.md",
-    "Session Notes/Session 4 - 05.09.20.md",
-    "Session Notes/Session 5 - 20.09.20.md",
-    "Session Notes/Session 6 - 27.09.20.md",
-    "Session Notes/Session 7 - 03.10.20.md"
+    "Eveningbough/Historical Figures/St. Alfric.md",
+    "Eveningbough/People/Oren Etter.md"
   ]
 }
