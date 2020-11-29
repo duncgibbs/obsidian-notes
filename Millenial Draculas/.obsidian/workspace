@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "449526cd47c93a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "912cf687bcc1afea",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cyrus Chandler.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "880a2d6a3f85528a",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d9183e47de67af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ca5338b768122c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a0ea2c800041ee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "892066cdfac98035",
+    "type": "split",
+    "children": [
+      {
+        "id": "1afab5228139938f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7abd798025481d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyrus Chandler.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Cyrus Chandler.md"
+  ]
+}
