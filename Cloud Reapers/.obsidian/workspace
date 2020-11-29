@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "9ba4cc31e2159499",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1764d7e94bf44a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Flying Circus/Factions/Arctic Aces.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf001edbd23caeac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a5575fad24758cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06442bbffea68ae5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f144f2becec5c60b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c72e50f7a7f44b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "680ba015037e9014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f35deb22fd6be9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flying Circus/Factions/Arctic Aces.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Flying Circus/Factions/Arctic Aces.md",
+    "Flying Circus/People/Captain Pruina Findor.md",
+    "Flying Circus/Places/Frosthaven.md",
+    "Flying Circus/Session 2 Notes.md",
+    "Flying Circus/Places/The Bering Desert.md",
+    "Flying Circus/People/Winchester McFly.md",
+    "Flying Circus/General Notes.md",
+    "Untitled.md",
+    "Flying Circus/Images/Frosthaven - Level 0.jpg",
+    "Flying Circus/Images/Frosthaven - Level 2.jpg"
+  ]
+}

@@ -1,0 +1,2 @@
+# Lance Faulkner
+Secretly the benefactor of the Cloud Furies. He intends to either a) obtain enough ice to be able to safely declare independence from the Council of Commanders or b) obtain the Pyramidion.
