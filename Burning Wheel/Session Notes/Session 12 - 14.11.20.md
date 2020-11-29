@@ -1,0 +1,7 @@
+Liotique returns to her workshop and writes a letter to Silvio Fang. When she returns from delivering the letter, her brother, Reng, is waiting for her. He pulls a knife on her, but Liotique literally could not care less.
+
+That evening, Crake kidnaps Lucan into a meat storage warehouse. There he tries first to convince him that Crake is an Executor investigating Lory, then to convince him to turn on Lory. After both fail, Crake _is forced_ to kill Lucan. Inside his satchel, he finds orders from Lory to amass seekers at the Monastery as well as to ready rooms for the Patriarch.
+
+At the Orsey manor, Finnan is turned away by the guard. After sneaking past the guard, he is undone by his illiteracy. While trying to find evidence of why the house is empty, he finds a cold and spooky room. Finnan is hella haunted. Finnan attempts to leave, but is wicked poltergeisted. He escapes by leaping from the second story balcony, landing miraculously unharmed.
+
+Meanwhile, the next day at the palace, Erdo is informed that Sir Lambert suspects him of stealing from him. He is given a message to deliver to Brairie Anguille. Instead, he brings the letters to Liotique. The letters contained a conversation between King Ezekiel and Sir Lambert questioning whether their navigator, Aitre, was delaying them intentionally.
