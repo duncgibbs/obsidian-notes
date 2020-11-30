@@ -11,6 +11,7 @@
 - Memory 4
 	- Elle Blivins gives me a Nord Piano 4 for my 16th birthday, apologizing that it isn't a car. I tell her I didn't want a car. We share a kiss.
 - Memory 5
+	- Home for Winter Break, my sister and I get our booster shot of Covid-19 vaccine from our new physician, Dr. Acula. He injects us with a chemical causing vampirism, and a week later, back at college, we begin to turn.
 
 ## Skills
 
@@ -34,7 +35,10 @@
 ### Immortal
 
 - Vanessa Chandler, my best friend, twin, vampire sister at UCLA
+- Dr. Acula, the vampire doctor that turned my sister and I into vampires
 
 ## Marks
+
+- Black veins stand out against the pale skin of my right arm
 
 ## Prompts
