@@ -5,15 +5,24 @@
 - Memory 1
 	- I am Cyrus Chandler. I was born in Chicago in 2003. (It's entirely within the realm of possibility that one of the first words my soft, baby brain recognized as "a thing it had heard before" could have been "9/11" or "YouTube.") I am a jazz pianist attending my first year at Berklee in NYC.
 	- I kill my friend, Emil Breitenfeld, after he discovers what I am.
+	- After losing access to medical blood, I begin hunting and trapping criminals at night in order to feed.
 - Memory 2
 	- My sister Vanessa, walks with me to my piano lessons after a kid pushed me down and tore up my practice books last time.
+	- I befriend eleven year old Clara while trapped aboard a ferry during the day. She begins taking piano lessons from me.
 - Memory 3
 	- One night when I was 13, my mom, an engineer at Boeing, gave me the book Programming Pearls and said if I finished the first ten problems she would teach me how to make a synthesizer.
 	- I help Acid Ed create glasses that can fool iris scanners after he rescues me from being arrested in New York.
 - Memory 4
 	- Elle Blivins gives me a Nord Piano 4 for my 16th birthday, apologizing that it isn't a car. I tell her I didn't want a car. We share a kiss.
 	- When Elle found out what I was, she didn't hesitate to help me use a friend's account on a blood selling website.
-- Memory 5
+- 
+
+
+### Diary
+
+An A6 size, leather bound, graph lined notebook.
+
+- Memory 1
 	- Home for Winter Break, my sister and I get our booster shot of Covid vaccine from our new physician, Dr. Acula He injects us with a chemical causing vampirism and a week later, back at college, we begin to turn.
 	- My eyesight begins to worsen, and I get glasses that match the handsome and stylish Dr. Acula.
 	- I find out that an Aura of Darkness surrounds me, and people come to know me as "Dusker."
@@ -25,13 +34,14 @@
 - Programming [X]
 - Looks Good in Glasses [ ]
 - Iris Forgery [ ]
+- Nocturnal Hunting
 
 ## Resources
 
 - Nord Piano 4
 - Pepper Spray
 - Laptop
-- Human Cells Bio Dot Com Account
+- ~~Human Cells Bio Dot Com Account~~
 
 ## Characters
 
@@ -41,6 +51,7 @@
 - ~~Emil Breitenfeld the senior at Berklee who had me sub one night in his combo at The Smoke~~
 - Abe, the waiter at The Uptown Dusk that has noticed my Aura of Darkness
 - Acid Ed, the hacker who helped me from being arrested
+- Clara, the eleven year old girl I give piano lessons to
 
 ### Immortal
 
@@ -109,3 +120,45 @@ P.S. I ate the cops.
 ### 6.21.1
 
 _You are trapped outside when the sun rises and take shelter some place you are not supposed to be. A child discovers and befriends you. Create a mortal child Character and record a humanizing Experience._
+
+Ah, man. Now I have to name something after you. Maybe I'll write a song called "Vivian."
+
+I've been teaching an eleven year old girl named Clara to play the piano. It's actually a funny story how we met if you aren't me. In one word: hubris. In twenty five words: I found out how long my personal stash of darkness lasts when my class trip got stuck on the ferry to the Statue of Liberty. It was a tourist boat, so the only shade was in the control room. The captain was pissed, but I convinced him to let me stay for a few minutes. I sat down and jumped when I heard a small, musical beep. I turned and had to look up because the small girl was camped out in a loft above and behind us. Clara was playing on a small child's piano, and taking quick glances at me.
+
+The Captain (I know his name, but vastly prefer "The Captain") insisted on paying me for lessons. We meet twice a week on evenings. She's actually not bad. I mean, for being eleven.
+
+### 7.25.1
+
+_Your methods for acquiring victims are no longer effective. What has changed? Lose a Resource and create a Skill which describes your new feeding techniques._
+
+I've been thinking about Emil a lot. The senior that had me play in his combo. The man that I killed. I hadn't thought of him for a long time. But when I lost my humancellsbio dot com account, I remembered him; remembered I had briefly forgotten about him.
+
+I haven't killed a lot of people.
+
+Hadn't.
+
+I mean, sure, I've fed on people. But I'd always been able to stop myself short of doing actual harm. But my first thought after losing my steady supply of "vegan" blood was on Emil. Realizing I'd abandoned his memory, however briefly, rent something in me. I went out that night and just wandered aimlessly. Hunting - or maybe more like fishing - until I caught something. A man in a hoodie started following far behind me. I turned into an abandoned alleyway, and he followed death loyally. I saw him stumble around in the alleyway as he headed further in, knife in hand. I stalked around him quietly. He could no longer see the way out of the alley, the reason he'd come in, nor the bright street light above. The fear paralyzed him until the blood loss paralyzed him.
+
+Anyway, blood's no longer a problem. Muggings are up in NYC (for now). Happy new year, sis.
+
+### 8.29.1
+
+_You are exposed as a monster and flee to a far off land. Lose any stationary Resources. You do not know the language of this new place - how do you overcome this obstacle? What new name do you take?_
+
+You have to believe me when I say I did everything I could. I tried my best, but the airship captain who agreed to smuggle me out of the country said there was nothing I could do to get the ship named changed to "Vanessa."
+
+I asked if I could dedicate my life to working on the ship for free to get it changed. "No."
+
+I asked if I could come back in five years time and pay him an amount of money that would let him, his wife, his children, and his children's children to retire right then and there to change the name. "No."
+
+I asked if I could save his life possibly rescuing him from an imminent doom or danger even sacrificing my own life in the process, or possibly donating an organ or even performing the surgery myself and earn a name change. "No."
+
+I asked if I could go back in time and write the song the most beautiful song he'd ever heard, calling it "Vanessa," when he was 16 and both meeting and falling in love with his wife; if the song was played on the car radio on their first date, if it was the song they danced to at their wedding, and if it was the first song their daughter ever heard, would he change the name of the ship. "No."
+
+Your first question is probably "Why were you being smuggled out of the country?" Well, the last guy I tried to lure into an alley turned out to be more than I could chew. I could tell something was up just by the confidence with which he followed me to the alley. I figured if I didn't like the vibe I could bail. What was one guy going to do in true darkness? Well 8 guys with radios and guns can do a lot. They couldn't see me, but they seemed to expect that. I could make out "FBI!" and "Freeze, Chandler" in the commotion. I managed to sneak out of the alley unharmed, but as I stepped past the last guy I saw an FBI badge across his chest. They knew who I was. I couldn't stay.
+
+Your next question better be "Where did you go?" Because this is the part where I tell you "Konnichiwa, from Japan!" With the iris forgers, I could reasonably go anywhere (that an airship could take me). I thought about somewhere above in Sweden where it's night 24 hours a day. But I eventually settled on Japan. I do not speak, read, nor write Japanese. I do not know anything about Japan other than that Jazz is popular there. Most importantly for someone who doesn't speak Japanese, it's just called "ジャズ" or "ja-zu." And the piano is called "ピアノ" or "pi-a-no." Everyone calls me "Yami," and I haven't felt a need to correct them.
+
+Anyway, after I landed I bought a diary both to help with my terrible memory, and also to serve as an ever growing font of knowledge for the future. First meditation: 
+
+"There is absolutely nothing you can do to make an airship captain name his ship after his ex-wife."
