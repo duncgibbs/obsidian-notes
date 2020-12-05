@@ -15,7 +15,7 @@
 - Memory 4
 	- Elle Blivins gives me a Nord Piano 4 for my 16th birthday, apologizing that it isn't a car. I tell her I didn't want a car. We share a kiss.
 	- When Elle found out what I was, she didn't hesitate to help me use a friend's account on a blood selling website.
-- 
+- Memory 5
 
 
 ### Diary
