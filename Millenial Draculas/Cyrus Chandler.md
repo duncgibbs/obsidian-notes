@@ -12,6 +12,7 @@
 - Memory 3
 	- One night when I was 13, my mom, an engineer at Boeing, gave me the book Programming Pearls and said if I finished the first ten problems she would teach me how to make a synthesizer.
 	- I help Acid Ed create glasses that can fool iris scanners after he rescues me from being arrested in New York.
+	- Technology in Tokyo for lighting and recording live music goes holographic, moving far beyond anything I've ever done.
 - Memory 4
 	- Elle Blivins gives me a Nord Piano 4 for my 16th birthday, apologizing that it isn't a car. I tell her I didn't want a car. We share a kiss.
 	- When Elle found out what I was, she didn't hesitate to help me use a friend's account on a blood selling website.
@@ -31,7 +32,7 @@ An A6 size, leather bound, graph lined notebook.
 ## Skills
 
 - Piano [ ]
-- Lighting and Sound [X]
+- ~~Lighting and Sound~~ [X]
 - Programming [X]
 - Looks Good in Glasses [ ]
 - Iris Forgery [ ]
@@ -154,12 +155,30 @@ I asked if I could come back in five years time and pay him an amount of money t
 
 I asked if I could save his life possibly rescuing him from an imminent doom or danger even sacrificing my own life in the process, or possibly donating an organ or even performing the surgery myself and earn a name change. "No."
 
-I asked if I could go back in time and write the song the most beautiful song he'd ever heard, calling it "Vanessa," when he was 16 and both meeting and falling in love with his wife; if the song was played on the car radio on their first date, if it was the song they danced to at their wedding, and if it was the first song their daughter ever heard, would he change the name of the ship. "No."
+I asked if I could go back in time and write the most beautiful song he'd ever heard, calling it "Vanessa," when he was 16 and both meeting and falling in love with his wife; if the song was played on the car radio on their first date, if it was the song they danced to at their wedding, and if it was the first song their daughter ever heard, would he change the name of the ship. "No."
 
 Your first question is probably "Why were you being smuggled out of the country?" Well, the last guy I tried to lure into an alley turned out to be more than I could chew. I could tell something was up just by the confidence with which he followed me to the alley. I figured if I didn't like the vibe I could bail. What was one guy going to do in true darkness? Well 8 guys with radios and guns can do a lot. They couldn't see me, but they seemed to expect that. I could make out "FBI!" and "Freeze, Chandler" in the commotion. I managed to sneak out of the alley unharmed, but as I stepped past the last guy I saw an FBI badge across his chest. They knew who I was. I couldn't stay.
 
-Your next question better be "Where did you go?" Because this is the part where I tell you "Konnichiwa, from Japan!" With the iris forgers, I could reasonably go anywhere (that an airship could take me). I thought about somewhere above in Sweden where it's night 24 hours a day. But I eventually settled on Japan. I do not speak, read, nor write Japanese. I do not know anything about Japan other than that Jazz is popular there. Most importantly for someone who doesn't speak Japanese, it's just called "ジャズ" or "ja-zu." And the piano is called "ピアノ" or "pi-a-no." Everyone calls me "Yami," and I haven't felt a need to correct them.
+Your next question better be "Where did you go?" Because this is the part where I tell you "Konnichiwa from Japan!" With the iris forgers, I could reasonably go anywhere (that an airship could take me). I thought about somewhere above in Sweden where it's night 24 hours a day. But I eventually settled on Japan. I do not speak, read, nor write Japanese. I do not know anything about Japan other than that Jazz is popular there. Most importantly for someone who doesn't speak Japanese, it's just called "ジャズ" or "ja-zu." And the piano is called "ピアノ" or "pi-a-no." Everyone calls me "Yami" and I haven't felt a need to correct them.
 
 Anyway, after I landed I bought a diary both to help with my terrible memory, and also to serve as an ever growing font of knowledge for the future. First meditation: 
 
 "There is absolutely nothing you can do to make an airship captain name his ship after his ex-wife."
+
+### 9.30.1
+
+_What social mores have your [sic] forgotten? Lose a checked Skill._
+
+I've been trying to make some more money. Tokyo is expensive. I was hoping just to be able to do some healthy - and legal - manual labor. But it turns out I no longer know how to do stage lighting and sound. At least not the way they do it over here. All the lighting is done with drones. Not only is it a lot more flexible, but also almost everything these days is recorded in 3D. This isn't just true for bigger concerts and venues, but even some bars have hologram displaying tables. Sound has also gone 3D, and sometimes drones do triple duty as microphones, but most professional stages have graphene microphone film on the floor. I have no idea how drums and footsteps are balanced out, but I guess that's why no one's hiring me.
+
+I'll let you know if any of the shows I play get recorded for holo-display later. They usually have a hard time capturing and rendering me visually, but I still sound just as good.
+
+### 10.31.1
+
+_You fall into a deep slumber for a hundred years. Strike out any mortal Characters._
+
+I've been having trouble waking up recently. Sometimes I accidentally sleep for days at a time. I didn't know what to do. I couldn't go to a doctor; even if they managed to overlook my non-humanity (a bad sign for a doctor, I think), I don't speak Japanese very well, and I have no money. So I emailed Dr. Acula.
+
+But I'm scared. I've started finding places to hide where I won't be disturbed. I've been able to hide in the basement of part of the Edo Castle for long stretches. It's currently undergoing renovations, so no one is there at night. But last month I fell asleep for two weeks.
+
+If I don't wake up again, you don't have to come find me. It may be dangerous; besides, how cool would it be for my final resting place to be an old Japanese castle where the Emperor used to live. But please, tell Elle goodbye for me. And that I was thinking of her up until the end. I love you, Vanessa.
