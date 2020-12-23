@@ -182,3 +182,5 @@ I've been having trouble waking up recently. Sometimes I accidentally sleep for 
 But I'm scared. I've started finding places to hide where I won't be disturbed. I've been able to hide in the basement of part of the Edo Castle for long stretches. It's currently undergoing renovations, so no one is there at night. But last month I fell asleep for two weeks.
 
 If I don't wake up again, you don't have to come find me. It may be dangerous; besides, how cool would it be for my final resting place to be an old Japanese castle where the Emperor used to live. But please, tell Elle goodbye for me. And that I was thinking of her up until the end. I love you, Vanessa.
+
+### 11
